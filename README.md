@@ -5,6 +5,7 @@ Welcome to my Music Store Database Analysis project! This repository is a collec
 
 ## Table of Contents
 - [Installation](#installation)
+- [Entity relationship diagram](#Entity-relationship-diagram)
 - [Usage](#usage)
 - [Features](#features)
 - [Questions Solved](#Questions-solved)
@@ -65,6 +66,10 @@ You need a script to create the database schema and populate it with data. This 
      SELECT * FROM employee LIMIT 5;
      ```
 ```
+
+## Entity relationship diagram
+
+![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
 
 ## Usage
 
@@ -233,7 +238,7 @@ I welcome contributions from the community. If you have a SQL project you'd like
 You can use this dataset to build your own project and practice your SQL skills.
 
 ## Acknowledgements
-- Special thanks to the YouTube tutorial that inspired this project.
+- Special thanks to the Rishabh Mishra's youTube tutorial that inspired this project https://youtu.be/VFIuIjswMKM
 - Thanks to the contributors who helped refine the queries and analysis.
   
 ---
