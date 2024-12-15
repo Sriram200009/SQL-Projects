@@ -2,7 +2,7 @@
 ## Project Description 
 Welcome to my Music Store Database Analysis project! This repository is a collection of SQL queries designed to explore and analyze data from a music store database. The objective is to uncover insights and trends to aid in decision-making and strategic planning.
 
-```markdown
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,16 +12,17 @@ Welcome to my Music Store Database Analysis project! This repository is a collec
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
-Markdown
 ## Installation
 To get a copy of this project up and running on your local machine, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sriram200009/SQL-Projects.git
    ```
+
  ```bash
    cd SQL-Projects
-   ``` 
+   ```
+
 ```bash   
 ## Setting Up the Music Store Database with pgAdmin
 
